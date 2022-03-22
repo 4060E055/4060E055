@@ -2,8 +2,8 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
 
 <!--
 **4060E055/4060E055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
