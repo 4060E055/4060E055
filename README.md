@@ -49,7 +49,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="15%" src="https://user-images.githubusercontent.com/37571816/159697567-59190685-aa72-4c9d-af24-58e539befe0a.jpg"></code>
 <br />
-<code><img width="5%" src="https://user-images.githubusercontent.com/37571816/159698281-02af67a9-fdda-4b5a-86dc-725180427ab2.png"></code>
+<code><img width="7%" src="https://user-images.githubusercontent.com/37571816/159698281-02af67a9-fdda-4b5a-86dc-725180427ab2.png"></code>
 <code><img width="15%" src="https://user-images.githubusercontent.com/37571816/159698298-5c574d60-689c-4938-875e-5578e854cb3c.png"></code>
 <code><img width="15%" src="https://user-images.githubusercontent.com/37571816/159698310-e2051f00-a4ea-4b44-8cfb-c9abcd2bcdd8.png"></code>
    
