@@ -4,9 +4,7 @@
 * 🌱 I’m currently learning Deep Learning、Machine Learning
 * 📫 How to reach me: workin840425@gmail.com
 
-
 <hr>
-<br>
 
 ## 專題/比賽/實習code
 1. 關於：TibaME-AI實戰應用養成班第五組專題
@@ -41,9 +39,7 @@
    語言：Basic(Visual Basic 2010)<br>
    摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
 
-   
-
-   
+  
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
@@ -54,7 +50,6 @@
 **4060E055/4060E055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 
 - 🔭 I’m currently working on ...
