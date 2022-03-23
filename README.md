@@ -32,7 +32,7 @@
    摘要：學習中撰寫的所有程式與筆記（皆自己嘗試撰寫的）<br><br>
 3. 主題：[大學學習NB](https://github.com/4060E055/University_Exercise)<br>
    語言：C、C++、Java、HTML<br>
-   摘要：大學習習語言筆記<br><br>
+   摘要：大學學習語言筆記<br><br>
 4. 主題：[高中比賽試題](https://github.com/4060E055/high_school_code)<br>
    語言：Basic(Visual Basic 2010)<br>
    摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
