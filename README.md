@@ -1,10 +1,10 @@
-### Hi there 👋
+#### Introduction：
+* 🔭 I’m currently working on nothing
+* 🌱 I’m currently learning Deep Learning、Machine Learning
+* 📫 How to reach me: workin840425@gmail.com
 
 
 
-
-
-portfolio：
 <br>
 ## 專題/比賽/實習code
 1. 關於：TibaME-AI實戰應用養成班第五組專題
