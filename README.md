@@ -21,6 +21,7 @@ portfolio：
    語言：Python、Jupyter<br>
    主題：[智慧化供應鏈管理](https://github.com/4060E055/109AIGO)<br>
    合作廠商：榮剛材料科技股份有限公司<br>
+   附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
 
 ## Excri
 1. 
