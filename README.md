@@ -51,7 +51,7 @@
 <br />
 <code><img width="20%" src="https://user-images.githubusercontent.com/37571816/159698281-02af67a9-fdda-4b5a-86dc-725180427ab2.png"></code>
 <code><img width="20%" src="https://user-images.githubusercontent.com/37571816/159698298-5c574d60-689c-4938-875e-5578e854cb3c.png"></code>
-<code><img width="20%" src="https://user-images.githubusercontent.com/37571816/159698310-e2051f00-a4ea-4b44-8cfb-c9abcd2bcdd8.pn"></code>
+<code><img width="20%" src="https://user-images.githubusercontent.com/37571816/159698310-e2051f00-a4ea-4b44-8cfb-c9abcd2bcdd8.png"></code>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
