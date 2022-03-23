@@ -52,7 +52,9 @@
 <code><img width="15%" src="https://user-images.githubusercontent.com/37571816/159698298-5c574d60-689c-4938-875e-5578e854cb3c.png"></code>
 <code><img width="15%" src="https://user-images.githubusercontent.com/37571816/159698310-e2051f00-a4ea-4b44-8cfb-c9abcd2bcdd8.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br />
+
+<br >
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
 
