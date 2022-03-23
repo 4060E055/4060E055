@@ -39,7 +39,13 @@
    語言：Basic(Visual Basic 2010)<br>
    摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
 
-  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
