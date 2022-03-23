@@ -8,19 +8,19 @@
 portfolio：
 <br>
 ## 專題/專案/實習code
-1. 關於：TibaME-AI實戰應用養成班第五組專題
-   語言：Python、Swift、MySQL、Jupyter
+1. 關於：TibaME-AI實戰應用養成班第五組專題<br>
+   語言：Python、Swift、MySQL、Jupyter<br>
    主題：AI快速尋找商品與食品成分分析(https://github.com/4060E055/TibaMe_Special_topic)
-2. 關於：工業技術研究院-量測發展中心 
-   語言：C#
+2. 關於：工業技術研究院-量測發展中心 <br>
+   語言：C#<br>
    主題：粒子檢測演算法開發(https://github.com/4060E055/ParticleAnalysis)
-3. 關於：大學專題
-   語言：Python、Jupyter
+3. 關於：大學專題<br>
+   語言：Python、Jupyter<br>
    主題：以深度學習實現桌遊自動計分(https://github.com/4060E055/University_Topics)
-4. 關於：AIGO智慧應用新世代人才培育計畫解題競賽 / 資訊工業策進會
-   語言：Python、Jupyter
-   主題：智慧化供應鏈管理(https://github.com/4060E055/109AIGO)
-   合作廠商：榮剛材料科技股份有限公司
+4. 關於：AIGO智慧應用新世代人才培育計畫解題競賽 / 資訊工業策進會<br>
+   語言：Python、Jupyter<br>
+   主題：智慧化供應鏈管理(https://github.com/4060E055/109AIGO)<br>
+   合作廠商：榮剛材料科技股份有限公司<br>
 
 ## Excri
 1. 
