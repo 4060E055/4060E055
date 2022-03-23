@@ -1,4 +1,4 @@
-#### Introduction：
+### Introduction：
 * 🔭 I’m currently working on nothing
 * ⚡ I’m currently doing [leetcode](https://github.com/4060E055/Leetcode)
 * 🌱 I’m currently learning Deep Learning、Machine Learning
@@ -6,7 +6,7 @@
 
 <hr>
 
-## 專題/比賽/實習code
+### 專題/比賽/實習code
 1. 關於：TibaME-AI實戰應用養成班第五組專題
    語言：Python、Swift、MySQL、Jupyter<br>
    主題：[AI快速尋找商品與食品成分分析](https://github.com/4060E055/TibaMe_Special_topic)<br><br>
@@ -23,7 +23,7 @@
    附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
 
 
-## Exercise
+### Exercise
 1. 主題：[LeetCode](https://github.com/4060E055/Leetcode)<br>
    語言：Python<br>
    進度：1~9<br><br>
