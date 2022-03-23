@@ -1,5 +1,6 @@
 #### Introduction：
 * 🔭 I’m currently working on nothing
+* ⚡ I’m currently doing [leetcode](https://github.com/4060E055/Leetcode)
 * 🌱 I’m currently learning Deep Learning、Machine Learning
 * 📫 How to reach me: workin840425@gmail.com
 
@@ -24,18 +25,22 @@
    附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
 
 ## Exercise
-1. 主題：[LineBot Exercise](https://github.com/4060E055/LineBot-CFI102-01)<br>
+1. 主題：[LeetCode]((https://github.com/4060E055/Leetcode))<br>
+   語言：Python<br>
+   進度：1~9<br><br>
+2. 主題：[LineBot Exercise](https://github.com/4060E055/LineBot-CFI102-01)<br>
    語言：LineDevelopers<br>
    摘要：學習LineBot Exercise<br><br>
-2. 主題：[Study in TibaMe](https://github.com/4060E055/TibaMe_AIClass)<br>
+3. 主題：[Study in TibaMe](https://github.com/4060E055/TibaMe_AIClass)<br>
    語言：Python、Flask、MySQL、OpenCV、Web Crawler、Linux、Git<br>
    摘要：學習中撰寫的所有程式與筆記（皆自己嘗試撰寫的）<br><br>
-3. 主題：[大學學習NB](https://github.com/4060E055/University_Exercise)<br>
+4. 主題：[大學學習NB](https://github.com/4060E055/University_Exercise)<br>
    語言：C、C++、Java、HTML<br>
    摘要：大學學習語言筆記<br><br>
-4. 主題：[高中比賽試題](https://github.com/4060E055/high_school_code)<br>
+5. 主題：[高中比賽試題](https://github.com/4060E055/high_school_code)<br>
    語言：Basic(Visual Basic 2010)<br>
    摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
+
    
 
    
