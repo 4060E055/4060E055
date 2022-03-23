@@ -2,12 +2,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
+
 
 portfolio：
 <br>
-## 專題/專案/實習code
+## 專題/比賽/實習code
 1. 關於：TibaME-AI實戰應用養成班第五組專題<br>
    語言：Python、Swift、MySQL、Jupyter<br>
    主題：[AI快速尋找商品與食品成分分析](https://github.com/4060E055/TibaMe_Special_topic)<br>
@@ -24,8 +23,24 @@ portfolio：
    附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
 
 ## Exercise
-1. 
+1. 主題：[LineBot Exercise](https://github.com/4060E055/LineBot-CFI102-01)<br>
+   語言：LineDevelopers<br><br>
+   摘要：學習LineBot Exercise<br>
+2. 主題：[Study in TibaMe](https://github.com/4060E055/TibaMe_AIClass)<br>
+   語言：Python、Flask、MySQL、OpenCV、Web Crawler、Linux、Git<br><br>
+   摘要：學習中撰寫的所有程式與筆記（皆自己嘗試撰寫的）<br>
+3. 主題：[大學學習NB](https://github.com/4060E055/University_Exercise)<br>
+   語言：C、C++、Java、HTML<br>
+   摘要：大學習習語言筆記<br>
+4. 主題：[高中比賽試題](https://github.com/4060E055/high_school_code)<br>
+   語言：Basic(Visual Basic 2010)<br>
+   摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
+   
 
+   
+   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
 
 
 
