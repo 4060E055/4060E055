@@ -25,7 +25,7 @@
    附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
 
 ## Exercise
-1. 主題：[LeetCode]((https://github.com/4060E055/Leetcode))<br>
+1. 主題：[LeetCode](https://github.com/4060E055/Leetcode)<br>
    語言：Python<br>
    進度：1~9<br><br>
 2. 主題：[LineBot Exercise](https://github.com/4060E055/LineBot-CFI102-01)<br>
