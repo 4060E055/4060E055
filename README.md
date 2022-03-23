@@ -22,6 +22,7 @@
    合作廠商：榮剛材料科技股份有限公司<br>
    附註：[優等獎獎狀](https://drive.google.com/file/d/1ajMI6iQA8lObXrfrww50pV22tew2RDS3/view?usp=sharing)
 
+
 ## Exercise
 1. 主題：[LeetCode](https://github.com/4060E055/Leetcode)<br>
    語言：Python<br>
@@ -39,13 +40,14 @@
    語言：Basic(Visual Basic 2010)<br>
    摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+
+<code><img width="10%" src="https://user-images.githubusercontent.com/37571816/159697337-fb1dd594-9c37-45d7-bd9f-9224f20755dc.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="8%" src="https://user-images.githubusercontent.com/37571816/159697501-6230b89b-74d8-477e-b827-171f2649cdf2.jpg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://user-images.githubusercontent.com/37571816/159697567-59190685-aa72-4c9d-af24-58e539befe0a.jpg"></code>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4060E055&show_icons=true&theme=radical)](https://github.com/4060E055)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4060E055&layout=compact&theme=gruvbox)](https://github.com/4060E055)
