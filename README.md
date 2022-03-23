@@ -24,7 +24,7 @@ portfolio：
 
 ## Exercise
 1. 主題：[LineBot Exercise](https://github.com/4060E055/LineBot-CFI102-01)<br>
-   語言：LineDevelopers<br><br>
+   語言：LineDevelopers<br>
    摘要：學習LineBot Exercise<br><br>
 2. 主題：[Study in TibaMe](https://github.com/4060E055/TibaMe_AIClass)<br>
    語言：Python、Flask、MySQL、OpenCV、Web Crawler、Linux、Git<br>
