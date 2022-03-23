@@ -41,9 +41,9 @@
    摘要：練習ACM與全國技藝競賽歷屆試題<br><br>
 
 
-<code><img width="5%" src="https://user-images.githubusercontent.com/37571816/159697337-fb1dd594-9c37-45d7-bd9f-9224f20755dc.png"></code>
+<code><img width="8%" src="https://user-images.githubusercontent.com/37571816/159697337-fb1dd594-9c37-45d7-bd9f-9224f20755dc.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="12%" src="https://user-images.githubusercontent.com/37571816/159697501-6230b89b-74d8-477e-b827-171f2649cdf2.jpg"></code>
+<code><img width="10%" src="https://user-images.githubusercontent.com/37571816/159697501-6230b89b-74d8-477e-b827-171f2649cdf2.jpg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
