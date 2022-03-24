@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 * ⚡ I’m currently doing [leetcode](https://github.com/4060E055/Leetcode)
 * 🌱 I’m currently learning Deep Learning、Machine Learning
 * 📫 How to reach me: workin840425@gmail.com
-* 😄 My CV ：[Cheris_CV.pdf](https://drive.google.com/file/d/1pDrJWr_s5tAxH0MHzc47TzIpm7XFrGJd/view?usp=sharing)
+* 😄 My CV ：[Cheris_CV.pdf](https://drive.google.com/file/d/1NoMOj3X4pagniMP2iWv2C56rGWvyAvNS/view?usp=sharing)
 <hr>
 
 ### 專題/比賽/實習code
