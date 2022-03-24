@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 
 ### 專題/比賽/實習code
 1. 關於：TibaME-AI實戰應用養成班第五組專題<br>
-   語言：Python、Swift、MySQL、Jupyter<br>
+   語言：Python、Swift、MySQL、Jupyter、MongoDB、HTML<br>
    主題：[AI快速尋找商品與食品成分分析](https://github.com/4060E055/TibaMe_Special_topic)<br><br>
 2. 關於：工業技術研究院-量測發展中心 <br>
    語言：C#<br>
