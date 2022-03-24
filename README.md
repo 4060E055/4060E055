@@ -66,7 +66,7 @@ You can use the website to generate badges: https://shields.io/
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="9%" src="https://user-images.githubusercontent.com/37571816/159706417-327d27a8-a31f-42ff-8217-c2a652c47361.png"></code>
 <br />
-<code><img width="12%" src="https://user-images.githubusercontent.com/37571816/159914331-e434c946-321b-4b5c-8c08-4e7968290565.PNG"></code>
+<code><img width="25%" src="https://user-images.githubusercontent.com/37571816/159914331-e434c946-321b-4b5c-8c08-4e7968290565.PNG"></code>
 
 
 <br >
