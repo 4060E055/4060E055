@@ -44,7 +44,7 @@ You can use the website to generate badges: https://shields.io/
    摘要：學習LineBot Exercise<br><br>
 3. 主題：[Study in TibaMe](https://github.com/4060E055/TibaMe_AIClass)<br>
    語言：Python、Flask、MySQL、OpenCV、Web Crawler、Linux、Git<br>
-   摘要：學習中撰寫的所有程式與筆記（皆自己嘗試撰寫的）<br><br>
+   摘要：學習中撰寫的所有程式與筆記（皆自己撰寫的部分）<br><br>
 4. 主題：[大學學習NB](https://github.com/4060E055/University_Exercise)<br>
    語言：C、C++、Java、HTML<br>
    摘要：大學學習語言筆記<br><br>
