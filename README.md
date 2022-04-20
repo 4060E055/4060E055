@@ -38,7 +38,7 @@ You can use the website to generate badges: https://shields.io/
 ### Exercise
 1. 主題：[LeetCode](https://github.com/4060E055/Leetcode)<br>
    語言：Python<br>
-   進度：1~9<br><br>
+   進度：1~9++<br><br>
 2. 主題：[LineBot Exercise](https://github.com/4060E055/LineBot-CFI102-01)<br>
    語言：LineDevelopers<br>
    摘要：學習LineBot Exercise<br><br>
